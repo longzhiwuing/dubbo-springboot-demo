@@ -12,6 +12,7 @@
         <module>dubbo-springboot-api</module>
         <module>dubbo-springboot-provider</module>
         <module>dubbo-springboot-consumer</module>
+        <module>api-gateway-zuul</module>
     </modules>
 
 
