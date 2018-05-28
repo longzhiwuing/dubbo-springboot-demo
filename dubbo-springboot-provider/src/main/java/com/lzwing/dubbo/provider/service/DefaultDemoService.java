@@ -20,7 +20,7 @@ public class DefaultDemoService implements DemoService {
 
     @Override
     public String sayHello(String name) {
-        return "Hello, " + name + " (from Spring Boot )";
+        return "Hello, " + name + " (from Spring Boot with zookeeper)";
     }
 
 }
